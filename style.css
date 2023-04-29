@@ -1,0 +1,43 @@
+
+
+    body{
+   
+    background-color: hsl(220, 100%, 92%);
+    font-family: Outfit, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height:100vh;
+    }
+
+
+.container{
+    background-color: hsl(0, 0%, 100%);
+    max-width: 300px;
+    padding: 1rem;
+    margin: 0px 1.2rem;
+    border-radius: 1rem ;
+    text-align: center;
+    box-shadow: 2px 4px 8px 8px rgba(207, 207, 207, 0.19);
+    
+    
+}
+.description{
+    display: flex;
+    flex-direction: column;
+
+}
+
+.pic{
+    width: 100%;
+    border-radius: 1rem;
+}
+h1{
+    font-size: 1.4rem;
+    color: hsl(219, 32%, 25%);
+}
+p{
+    font-size: 1rem;
+    color: hsla(0, 0%, 43%, 0.788);
+    margin-bottom: 1rem;
+}
