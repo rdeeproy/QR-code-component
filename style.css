@@ -2,7 +2,7 @@
 
     body{
    
-    background-color: hsl(220, 94%, 88%);
+    background-color: hsl(220, 100%, 92%);
     font-family: Outfit, sans-serif;
     display: flex;
     justify-content: center;
@@ -13,12 +13,12 @@
 
 .container{
     background-color: hsl(0, 0%, 100%);
-    max-width: 300px;
+    max-width: 275px;
     padding: 1rem;
     margin: 0px 1.2rem;
     border-radius: 1rem ;
     text-align: center;
-    box-shadow: 2px 4px 8px 8px rgba(207, 207, 207, 0.19);
+    box-shadow: 1px 4px 8px 12px rgba(207, 207, 207, 0.3);
     
     
 }
